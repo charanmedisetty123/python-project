@@ -1,0 +1,8 @@
+Write a Program to reverse the Tuple?
+a = ("apple","banana","kiwi","mango")
+b = list(a)
+print(b)
+b.reverse()
+print(b)
+c = tuple(b)
+print(c)
